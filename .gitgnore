@@ -1,0 +1,3 @@
+node_module\*.js 
+node_module\*.json
+

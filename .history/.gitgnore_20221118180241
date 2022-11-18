@@ -1,0 +1,5 @@
+node_module\*.js 
+node_module\*.json
+
+
+ <!-- This is a very common pattern in Node.js projects. The `node_modules` folder is not included in the project by default, but you can add it to the project by right-clicking on the project in the Solution Explorer and selecting **Add > Existing Folder...**. Select the `node_modules` folder to add it to the project. -->

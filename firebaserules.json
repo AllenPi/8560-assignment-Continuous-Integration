@@ -1,0 +1,9 @@
+{
+    "rules": {
+      ".read": "now < 1616558400000",  
+      ".write": "now < 1616558400000",  
+        "meals":{
+      ".read": true, 
+      ".write": "auth.uid != null"  }
+    }
+  }
